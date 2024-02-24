@@ -1,6 +1,5 @@
 {
     "start": "node ."
-    "url": "git+https://github.com/shuttlenetwork/shuttle"
   },
   "keywords": [
     "proxy"
